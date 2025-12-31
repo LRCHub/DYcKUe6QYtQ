@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "TITLE IDOL",
+  "base_artist": "Pastel＊Palettes",
+  "createdAt": "2025-12-31T13:41:44.751020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TITLE IDOL",
+      "artist": "Pastel*Palettes",
+      "has_synced": true,
+      "path": "select/01_TITLE_IDOL_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TITLE IDOL",
+      "artist": "Pastel＊Palettes",
+      "has_synced": true,
+      "path": "select/02_TITLE_IDOL_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "title idol",
+      "artist": "pastelpalettes",
+      "has_synced": true,
+      "path": "select/03_title_idol_pastelpalettes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TITLE IDOL",
+      "artist": "Pastel*Palettes",
+      "has_synced": false,
+      "path": "select/pl_01_TITLE_IDOL_Pastel_Palettes.txt"
+    }
+  ]
+}
